@@ -1,3 +1,3 @@
 # Add  code here!
 def prime?(x)
-  arr= 
+  arr= (-1..105557)
