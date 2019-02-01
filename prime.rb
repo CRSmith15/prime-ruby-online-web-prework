@@ -1,5 +1,7 @@
 def prime?(x)
-return false if x <= 1 
-else
-  true 
+  if x %1 || x % x 
+    true 
+  else
+  false 
+end
 end
