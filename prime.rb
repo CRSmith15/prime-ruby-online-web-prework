@@ -1,5 +1,3 @@
-# Add  code here!
-  def prime?
-    ('1' * self) !~ /^1?$|^(11+?)\1+$/
-  end
-  
+def prime?(x)
+return false if x
+end
