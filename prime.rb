@@ -1,6 +1,6 @@
 # Add  code here!
-require ''
+require 'Prime'
 def prime?(x)
-  x.prime
+  Prime.x 
   
 end
